@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AsignacionPM3</string>
+    <string name="empty_list">The List of Competitions is Empty or no Syncro, Please Swipe Down to Refresh</string>
+</resources>

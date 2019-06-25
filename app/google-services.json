@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "240602589067",
+    "firebase_url": "https://asignacionpm3.firebaseio.com",
+    "project_id": "asignacionpm3",
+    "storage_bucket": "asignacionpm3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240602589067:android:04a0f89150301c72",
+        "android_client_info": {
+          "package_name": "com.example.asignacionpm3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240602589067-ev0crktp9ggust2oeilu9mhmcbro4b81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmte4lq0lG85SpOiVLmQxBBpxAyq2BneA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240602589067-ev0crktp9ggust2oeilu9mhmcbro4b81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
